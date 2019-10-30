@@ -1,0 +1,11 @@
+FinalImg(512,512)=0;
+
+for m=1:512
+    for n=1:512
+        for i=1:512
+    
+                dF_F0(m,n,i)=Frame(m,n,i);
+            
+        end
+    end
+end
